@@ -2,7 +2,7 @@ import imgPastor from "../../Images/tacos-al-pastor.jpg";
 import imgCochinita from "../../Images/taco-cochinita-pibil.jpg";
 import imgCamaron from "../../Images/tacos-camaron.jpg";
 import imgMlimon from "../../Images/margarita-lemon.jpg";
-import imgMStrawberry from "../../Images/margarita-strawberry";
+import imgMStrawberry from "../../Images/margarita-strawberry.jpg";
 import imgMPineapple from "../../Images/margarita-pineapple.jpg";
 
 export const productDataTaco = [
@@ -17,7 +17,7 @@ export const productDataTaco = [
   {
     img: imgCochinita,
     alt: "Taco",
-    name: "Taco de cochinita pibil",
+    name: "Taco de cochinita",
     desc: " Marinara sauce, basil, pork meat, spices",
     price: "$10.99",
     button: "Add to Cart",
@@ -36,15 +36,15 @@ export const productDataMargaritas = [
   {
     img: imgMlimon,
     alt: "Margarita",
-    name: "Margarita de Limón",
-    desc: "Cocktail with tequila and lemon",
+    name: "Margarita Limón",
+    desc: "Cocktail with tequila and lemon juice",
     price: "$9.99",
     button: "Add to Cart",
   },
   {
     img: imgMStrawberry,
     alt: "Margarita",
-    name: "Margarita de strawberry",
+    name: "Margarita Strawberry",
     desc: "Cocktail with tequila and strawberry",
     price: "$9.99",
     button: "Add to Cart",
@@ -52,7 +52,7 @@ export const productDataMargaritas = [
   {
     img: imgMPineapple,
     alt: "Margarita",
-    name: "Margarita pineapple",
+    name: "Margarita Pineapple",
     desc: "Cocktail with tequila and pineapple",
     price: "$9.99",
     button: "Add to Cart",
