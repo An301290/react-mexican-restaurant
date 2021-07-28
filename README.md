@@ -1,6 +1,5 @@
-# Project Name
+# E-Taco
 
-E-Taco
 A website that alloes you to order Tacos & Margaitas online. Built with javascript, react, style components. 
 
 ## Project Status
