@@ -2,7 +2,7 @@ import imgPastor from "../../Images/tacos-al-pastor.jpg";
 import imgCochinita from "../../Images/taco-cochinita-pibil.jpg";
 import imgCamaron from "../../Images/tacos-camaron.jpg";
 import imgMlimon from "../../Images/margarita-lemon.jpg";
-import imgMStrawberry from "../../Images/margarita-strawberry.jpg";
+import imgMStrawberry from "../../Images/margarita.jpg";
 import imgMPineapple from "../../Images/margarita-pineapple.jpg";
 
 export const productDataTaco = [

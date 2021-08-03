@@ -7,6 +7,7 @@ import {
   productDataTaco,
   productDataMargaritas,
 } from "./components/Products/data";
+import Feature from "./components/Feature";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <GlobalStyle />
       <Hero />
       <Products heading="Choose your favorite Taco" data={productDataTaco} />
+      <Feature />
       <Products heading="Choose your Margarita" data={productDataMargaritas} />
     </Router>
   );
