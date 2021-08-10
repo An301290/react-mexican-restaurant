@@ -1,10 +1,10 @@
 # E-Taco
 
-A website that allows you to order Tacos & Margaitas online. Built with javascript, react, style components. 
+A website that allows you to order Tacos & Margaitas online. Built with React, style components. 
 
 ## Project Status
 
-The front end part of the project is ready.
+Front end of the project
 
 ### Installation and Setup Instructions
 
