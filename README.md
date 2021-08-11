@@ -1,14 +1,16 @@
-<h1>AllYouNeed Online-Shop</h1>
+<h1>E-Taco</h1>
 
-<p>AllYouNeed is a page that allows you to select products and add them in to your shopping cart</p>
+<p>User friendly desing to order your favorite tacos and margaritas online</p>
 
-## Links
+## Screenshots
 
-- [Repo](https://github.com/An301290/online-shop)
+![Home Page](https://user-images.githubusercontent.com/69522224/129037813-fd3af43b-f108-4c94-9149-f646ab339912.png)
 
-- [Live](https://an301290.github.io/online-shop/)
+![](/screenshots/2.png)
 
-- [API](https://fakestoreapi.com/)
+![](/screenshots/3.png)![Screen Shot 2021-08-11 at 15 23 51](https://user-images.githubusercontent.com/69522224/129037615-e89b84ef-90bf-42bc-8ffe-d34a3c1ba407.png)
+
+
 ## Available Commands
 
 In the project directory, you can run:
@@ -40,9 +42,7 @@ For running the server file on you can use this command.
 
 - JavaScript
 - React
-- Material Ui
-- Typescript
-- React-Query
+- React-Icons
 - Styled Components
 
 ## Author
