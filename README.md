@@ -1,58 +1,56 @@
-# E-Taco
+<h1>AllYouNeed Online-Shop</h1>
 
-A website that allows you to order Tacos & Margaitas online. Built with React, style components. 
+<p>AllYouNeed is a page that allows you to select products and add them in to your shopping cart</p>
 
-## Project Status
+## Links
 
-Front end of the project
+- [Repo](https://github.com/An301290/online-shop)
 
-### Installation and Setup Instructions
+- [Live](https://an301290.github.io/online-shop/)
 
-Clone down this repository. You will need node and npm installed globally on your machine.
+- [API](https://fakestoreapi.com/)
+## Available Commands
 
-Installation:
+In the project directory, you can run:
 
-npm install
+### `npm start" : "react-scripts start"`,
 
-To Run Test:
+The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
+You will also see any lint errors in the console.
 
-npm test
+### `"npm run build": "react-scripts build"`,
 
-To Start Server:
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
 
-npm start
+### `"npm run test": "react-scripts test"`,
 
-To Visit App:
+Launches the test runner in the interactive watch mode.
 
-http://localhost:3000
+### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
-## Learn More
+For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `"serve": "node server"`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For running the server file on you can use this command.
 
-### Code Splitting
+### `npm run serve`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Built With
 
-### Analyzing the Bundle Size
+- JavaScript
+- React
+- Material Ui
+- Typescript
+- React-Query
+- Styled Components
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
+**Angel Samano Hamud**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🤝 Support
 
-### Advanced Configuration
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-mexican-restaurant
+Give a ⭐️ if you like this project!
